@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela Periódica Interativa</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tabela Periódica Interativa</h1>
+    </header>
+
+
+
+    <main>
+        <div class="controls">
+            <input type="text" id="search" placeholder="Pesquisar elemento...">
+            <select id="category-filter">
+                <option value="all">Todas as categorias</option>
+                <option value="Não-metal">Não-metal</option>
+                <option value="Gás Nobre">Gás Nobre</option>
+                <option value="Metal Alcalino">Metal Alcalino</option>
+                <option value="Metal Alcalino Terroso">Metal Alcalino Terroso</option>
+                <option value="Semimetal">Semimetal</option>
+                <option value="Halogênio">Halogênio</option>
+                <option value="Metal">Metal</option>
+                <option value="Metal de Transição">Metal de Transição</option>
+                <option value="Metal de Pós-Transição">Metal de Pós-Transição</option>
+                <option value="Lantanídeo">Lantanídeo</option>
+                <option value="Actinídeo">Actinídeo</option>
+            </select>
+        </div>
+
+
+        <section class="periodic-table" id="periodic-table">
+            <!-- A tabela será gerada dinamicamente pelo JavaScript -->
+        </section>
+
+        <div id="element-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-button">&times;</span>
+                <h2 id="element-name">Nome do Elemento</h2>
+                <p><strong>Símbolo:</strong> <span id="element-symbol"></span></p>
+                <p><strong>Número Atômico:</strong> <span id="element-number"></span></p>
+                <p><strong>Massa Atômica:</strong> <span id="element-mass"></span></p>
+                <p><strong>Grupo:</strong> <span id="element-group"></span></p>
+                <p><strong>Período:</strong> <span id="element-period"></span></p>
+                <p><strong>Categoria:</strong> <span id="element-category"></span></p>
+                <p id="element-summary"></p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Desenvolvido por Rafael C. S. Otero</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

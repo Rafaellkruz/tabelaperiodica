@@ -1,0 +1,1472 @@
+[
+  {
+      "name": "Hidrogênio",
+      "symbol": "H",
+      "number": 1,
+      "period": 1,
+      "group": 1,
+      "atomic_mass": 1.008,
+      "category": "Não Metal",
+      "summary": "O hidrogênio é o elemento químico de número atômico 1, representado pelo símbolo H. Em condições normais de temperatura e pressão, é um gás diatômico incolor, inodoro e altamente inflamável."
+  },
+  {
+      "name": "Hélio",
+      "symbol": "He",
+      "number": 2,
+      "period": 1,
+      "group": 18,
+      "atomic_mass": 4.0026,
+      "category": "Gás Nobre",
+      "summary": "O hélio é um elemento químico de símbolo He e número atômico 2. É um gás nobre incolor, inodoro, insípido e não tóxico."
+  },
+  {
+      "name": "Lítio",
+      "symbol": "Li",
+      "number": 3,
+      "period": 2,
+      "group": 1,
+      "atomic_mass": 6.94,
+      "category": "Metal Alcalino",
+      "summary": "O lítio é um elemento químico de símbolo Li e número atômico 3. É um metal alcalino macio, prateado e altamente reativo."
+  },
+  {
+      "name": "Berílio",
+      "symbol": "Be",
+      "number": 4,
+      "period": 2,
+      "group": 2,
+      "atomic_mass": 9.0122,
+      "category": "Metal Alcalino Terroso",
+      "summary": "O berílio é um elemento químico de símbolo Be e número atômico 4. É um metal alcalino-terroso rígido e leve, usado principalmente como agente de endurecimento em ligas."
+  },
+  {
+    "name": "Boro",
+    "symbol": "B",
+    "number": 5,
+    "period": 2,
+    "group": 13,
+    "atomic_mass": 10.81,
+    "category": "Semimetal",
+    "summary": "O boro é um elemento químico de címbolo B e número atômico 5. É um metaloide de cor preta ou marrom, usado em vidros resistentes ao calor e na produção de materiais compostos."
+  },
+  {
+    "name": "Carbono",
+    "symbol": "C",
+    "number": 6,
+    "period": 2,
+    "group": 14,
+    "atomic_mass": 12.011,
+    "category": "Não Metal",
+    "summary": "O carbono é um elemento químico de símbolo C e número atômico 6. É um não metal essencial para a vida, formando uma infinidade de compostos orgânicos."
+},
+{
+    "name": "Nitrogênio",
+    "symbol": "N",
+    "number": 7,
+    "period": 2,
+    "group": 15,
+    "atomic_mass": 14.007,
+    "category": "Não Metal",
+    "summary": "O nitrogênio é um elemento químico de símbolo N e número atômico 7. É um gás diatômico incolor e inodoro que compõe aproximadamente 78% da atmosfera terrestre."
+},
+{
+    "name": "Oxigênio",
+    "symbol": "O",
+    "number": 8,
+    "period": 2,
+    "group": 16,
+    "atomic_mass": 15.999,
+    "category": "Não Metal",
+    "summary": "O oxigênio é um elemento químico de símbolo O e número atômico 8. É um gás essencial para a respiração e o elemento mais abundante na crosta terrestre."
+},
+{
+    "name": "Flúor",
+    "symbol": "F",
+    "number": 9,
+    "period": 2,
+    "group": 17,
+    "atomic_mass": 18.998,
+    "category": "Halogênio",
+    "summary": "O flúor é um elemento químico de símbolo F e número atômico 9. É um gás halogênio altamente reativo e o elemento mais eletronegativo da Tabela Periódica."
+},
+{
+    "name": "Neônio",
+    "symbol": "Ne",
+    "number": 10,
+    "period": 2,
+    "group": 18,
+    "atomic_mass": 20.180,
+    "category": "Gás Nobre",
+    "summary": "O neônio é um elemento químico de símbolo Ne e número atômico 10. É um gás nobre incolor, inodoro, e usado em sinais luminosos devido à sua capacidade de emitir luz vermelha quando eletrificado."
+},
+{
+    "name": "Sódio",
+    "symbol": "Na",
+    "number": 11,
+    "period": 3,
+    "group": 1,
+    "atomic_mass": 22.990,
+    "category": "Metal Alcalino", 
+    "summary": "O sódio é um elemento químico de símbolo Na e número atômico 11. É um metal alcalino macio e altamente reativo, essencial para várias funções biológicas."
+},
+{
+    "name": "Magnésio",
+    "symbol": "Mg",
+    "number": 12,
+    "period": 3,
+    "group": 2,
+    "atomic_mass": 24.305,
+    "category": "Metal Alcalino Terroso",
+    "summary": "O magnésio é um elemento químico de símbolo Mg e número atômico 12. É um metal alcalino-terroso leve e altamente reativo, usado em ligas leves e em fogos de artifício."
+},
+{
+    "name": "Alumínio",
+    "symbol": "Al",
+    "number": 13,
+    "period": 3,
+    "group": 13,
+    "atomic_mass": 26.982,
+    "category": "Metal de Pós-Transição",
+    "summary": "O alumínio é um elemento químico de símbolo Al e número atômico 13. É um metal leve, maleável e altamente resistente à corrosão, amplamente utilizado em embalagens e construção civil."
+},
+{
+    "name": "Silício",
+    "symbol": "Si",
+    "number": 14,
+    "period": 3,
+    "group": 14,
+    "atomic_mass": 28.085,
+    "category": "Semimetal",
+    "summary": "O silício é um elemento químico de símbolo Si e número atômico 14. É um metalóide utilizado principalmente na indústria eletrônica, em semicondutores e na fabricação de vidro."
+},
+{
+    "name": "Fósforo",
+    "symbol": "P",
+    "number": 15,
+    "period": 3,
+    "group": 15,
+    "atomic_mass": 30.974,
+    "category": "Não Metal",
+    "summary": "O fósforo é um elemento químico de símbolo P e número atômico 15. É um não metal essencial para a vida, encontrado principalmente em ossos e dentes na forma de fosfatos."
+},
+{
+    "name": "Enxofre",
+    "symbol": "S",
+    "number": 16,
+    "period": 3,
+    "group": 16,
+    "atomic_mass": 32.06,
+    "category": "Não Metal",
+    "summary": "O enxofre é um elemento químico de símbolo S e número atômico 16. É um não metal amarelo que ocorre naturalmente em vários minerais e é essencial para todos os seres vivos."
+},
+{
+    "name": "Cloro",
+    "symbol": "Cl",
+    "number": 17,
+    "period": 3,
+    "group": 17,
+    "atomic_mass": 35.45,
+    "category": "Halogênio",
+    "summary": "O cloro é um elemento químico de símbolo Cl e número atômico 17. É um gás halogênio altamente reativo, amplamente utilizado como desinfetante e na produção de plásticos."
+},
+{
+    "name": "Argônio",
+    "symbol": "Ar",
+    "number": 18,
+    "period": 3,
+    "group": 18,
+    "atomic_mass": 39.948,
+    "category": "Gás Nobre",
+    "summary": "O argônio é um elemento químico de símbolo Ar e número atômico 18. É um gás nobre incolor e inodoro, frequentemente utilizado em lâmpadas incandescentes e em soldagens."
+},
+{
+    "name": "Potássio",
+    "symbol": "K",
+    "number": 19,
+    "period": 4,
+    "group": 1,
+    "atomic_mass": 39.098,
+    "category": "Metal Alcalino",
+    "summary": "O potássio é um elemento químico de símbolo K e número atômico 19. É um metal alcalino macio, altamente reativo, essencial para a função celular nos seres vivos."
+},
+{
+    "name": "Cálcio",
+    "symbol": "Ca",
+    "number": 20,
+    "period": 4,
+    "group": 2,
+    "atomic_mass": 40.078,
+    "category": "Metal Alcalino Terroso",
+    "summary": "O cálcio é um elemento químico de símbolo Ca e número atômico 20. É um metal alcalino-terroso essencial para a formação de ossos e dentes nos organismos."
+},
+{
+    "name": "Escândio",
+    "symbol": "Sc",
+    "number": 21,
+    "period": 4,
+    "group": 3,
+    "atomic_mass": 44.955,
+    "category": "Metal de Transição",
+    "summary": "O escândio é um elemento químico de símbolo Sc e número atômico 21. É um metal de transição leve utilizado em ligas metálicas e lâmpadas."
+},
+{
+    "name": "Titânio",
+    "symbol": "Ti",
+    "number": 22,
+    "period": 4,
+    "group": 4,
+    "atomic_mass": 47.867,
+    "category": "Metal de Transição",
+    "summary": "O titânio é um elemento químico de símbolo Ti e número atômico 22. É um metal de transição resistente à corrosão, amplamente utilizado em aeronaves e implantes médicos."
+},
+{
+    "name": "Vanádio",
+    "symbol": "V",
+    "number": 23,
+    "period": 4,
+    "group": 5,
+    "atomic_mass": 50.942,
+    "category": "Metal de Transição",
+    "summary": "O vanádio é um elemento químico de símbolo V e número atômico 23. É um metal de transição utilizado principalmente em ligas para aumentar a resistência ao desgaste."
+},
+{
+    "name": "Cromo",
+    "symbol": "Cr",
+    "number": 24,
+    "period": 4,
+    "group": 6,
+    "atomic_mass": 51.996,
+    "category": "Metal de Transição",
+    "summary": "O cromo é um elemento químico de símbolo Cr e número atômico 24. É um metal brilhante, utilizado principalmente em revestimentos de proteção e ligas inoxidáveis."
+},
+{
+    "name": "Manganês",
+    "symbol": "Mn",
+    "number": 25,
+    "period": 4,
+    "group": 7,
+    "atomic_mass": 54.938,
+    "category": "Metal de Transição",
+    "summary": "O manganês é um elemento químico de símbolo Mn e número atômico 25. É um metal utilizado em ligas de aço para melhorar sua dureza e resistência."
+},
+{
+    "name": "Ferro",
+    "symbol": "Fe",
+    "number": 26,
+    "period": 4,
+    "group": 8,
+    "atomic_mass": 55.845,
+    "category": "Metal de Transição",
+    "summary": "O ferro é um elemento químico de símbolo Fe e número atômico 26. É um dos metais mais abundantes na Terra, amplamente utilizado em construção e fabricação de ferramentas."
+},
+{
+    "name": "Cobalto",
+    "symbol": "Co",
+    "number": 27,
+    "period": 4,
+    "group": 9,
+    "atomic_mass": 58.933,
+    "category": "Metal de Transição",
+    "summary": "O cobalto é um elemento químico de símbolo Co e número atômico 27. É um metal utilizado em ligas resistentes ao calor e na produção de baterias."
+},
+{
+    "name": "Níquel",
+    "symbol": "Ni",
+    "number": 28,
+    "period": 4,
+    "group": 10,
+    "atomic_mass": 58.693,
+    "category": "Metal de Transição",
+    "summary": "O níquel é um elemento químico de símbolo Ni e número atômico 28. É um metal de transição utilizado em moedas, baterias e ligas inoxidáveis."
+},
+{
+    "name": "Cobre",
+    "symbol": "Cu",
+    "number": 29,
+    "period": 4,
+    "group": 11,
+    "atomic_mass": 63.546,
+    "category": "Metal de Transição",
+    "summary": "O cobre é um elemento químico de símbolo Cu e número atômico 29. É um metal altamente condutor utilizado em fiação elétrica e eletrônica."
+},
+{
+    "name": "Zinco",
+    "symbol": "Zn",
+    "number": 30,
+    "period": 4,
+    "group": 12,
+    "atomic_mass": 65.38,
+    "category": "Metal de Transição",
+    "summary": "O zinco é um elemento químico de símbolo Zn e número atômico 30. É utilizado principalmente em galvanização para proteger metais contra a corrosão."
+},
+{
+    "name": "Gálio",
+    "symbol": "Ga",
+    "number": 31,
+    "period": 4,
+    "group": 13,
+    "atomic_mass": 69.723,
+    "category": "Metal de Pós-Transição",
+    "summary": "O gálio é um elemento químico de símbolo Ga e número atômico 31. É um metal macio e usado em eletrônica e na fabricação de ligas de baixa fusão."
+},
+{
+    "name": "Germânio",
+    "symbol": "Ge",
+    "number": 32,
+    "period": 4,
+    "group": 14,
+    "atomic_mass": 72.63,
+    "category": "Semimetal",
+    "summary": "O germânio é um elemento químico de símbolo Ge e número atômico 32. É um semimetal usado em semicondutores e na fabricação de fibras ópticas."
+},
+{
+    "name": "Arsênio",
+    "symbol": "As",
+    "number": 33,
+    "period": 4,
+    "group": 15,
+    "atomic_mass": 74.9216,
+    "category": "Semimetal",
+    "summary": "O arsênio é um elemento químico de símbolo As e número atômico 33. É um semimetal tóxico utilizado em pesticidas, vidros e ligas."
+},
+{
+    "name": "Selênio",
+    "symbol": "Se",
+    "number": 34,
+    "period": 4,
+    "group": 16,
+    "atomic_mass": 78.971,
+    "category": "Não Metal",
+    "summary": "O selênio é um elemento químico de símbolo Se e número atômico 34. É um não metal usado em dispositivos eletrônicos e como suplemento dietético."
+},
+{
+    "name": "Bromo",
+    "symbol": "Br",
+    "number": 35,
+    "period": 4,
+    "group": 17,
+    "atomic_mass": 79.904,
+    "category": "Halogênio",
+    "summary": "O bromo é um elemento químico de símbolo Br e número atômico 35. É um halogênio líquido altamente reativo utilizado em retardadores de chama e pesticidas."
+},
+{
+    "name": "Criptônio",
+    "symbol": "Kr",
+    "number": 36,
+    "period": 4,
+    "group": 18,
+    "atomic_mass": 83.798,
+    "category": "Gás Nobre",
+    "summary": "O criptônio é um elemento químico de símbolo Kr e número atômico 36. É um gás nobre incolor usado em lâmpadas fluorescentes e fotografia de alta velocidade."
+},
+{
+    "name": "Rubídio",
+    "symbol": "Rb",
+    "number": 37,
+    "period": 5,
+    "group": 1,
+    "atomic_mass": 85.4678,
+    "category": "Metal Alcalino",
+    "summary": "O rubídio é um elemento químico de símbolo Rb e número atômico 37. É um metal alcalino macio e altamente reativo, utilizado em células fotoelétricas."
+},
+{
+    "name": "Estrôncio",
+    "symbol": "Sr",
+    "number": 38,
+    "period": 5,
+    "group": 2,
+    "atomic_mass": 87.62,
+    "category": "Metal Alcalino Terroso",
+    "summary": "O estrôncio é um elemento químico de símbolo Sr e número atômico 38. É um metal alcalino-terroso utilizado em fogos de artifício e na produção de ímãs permanentes."
+},
+{
+    "name": "Ítrio",
+    "symbol": "Y",
+    "number": 39,
+    "period": 5,
+    "group": 3,
+    "atomic_mass": 88.9058,
+    "category": "Metal de Transição",
+    "summary": "O ítrio é um elemento químico de símbolo Y e número atômico 39. É um metal de transição usado em fosforescentes de tubos de raios catódicos e em cerâmicas."
+},
+{
+    "name": "Zircônio",
+    "symbol": "Zr",
+    "number": 40,
+    "period": 5,
+    "group": 4,
+    "atomic_mass": 91.224,
+    "category": "Metal de Transição",
+    "summary": "O zircônio é um elemento químico de símbolo Zr e número atômico 40. É um metal de transição resistente à corrosão, utilizado em reatores nucleares."
+},
+{
+    "name": "Nióbio",
+    "symbol": "Nb",
+    "number": 41,
+    "period": 5,
+    "group": 5,
+    "atomic_mass": 92.906,
+    "category": "Metal de Transição",
+    "summary": "O nióbio é um elemento químico de símbolo Nb e número atômico 41. É um metal de transição usado em superligas e na produção de aço inoxidável."
+},
+{
+    "name": "Molibdênio",
+    "symbol": "Mo",
+    "number": 42,
+    "period": 5,
+    "group": 6,
+    "atomic_mass": 95.95,
+    "category": "Metal de Transição",
+    "summary": "O molibdênio é um elemento químico de símbolo Mo e número atômico 42. É um metal utilizado em ligas de alta resistência e como catalisador industrial."
+},
+{
+    "name": "Tecnécio",
+    "symbol": "Tc",
+    "number": 43,
+    "period": 5,
+    "group": 7,
+    "atomic_mass": 98,
+    "category": "Metal de Transição",
+    "summary": "O tecnécio é um elemento químico de símbolo Tc e número atômico 43. É um metal de transição radioativo, utilizado principalmente em exames médicos de diagnóstico por imagem."
+},
+{
+    "name": "Rutênio",
+    "symbol": "Ru",
+    "number": 44,
+    "period": 5,
+    "group": 8,
+    "atomic_mass": 101.07,
+    "category": "Metal de Transição",
+    "summary": "O rutênio é um elemento químico de símbolo Ru e número atômico 44. É um metal de transição usado em eletrônica e como catalisador."
+},
+{
+    "name": "Ródio",
+    "symbol": "Rh",
+    "number": 45,
+    "period": 5,
+    "group": 9,
+    "atomic_mass": 102.91,
+    "category": "Metal de Transição",
+    "summary": "O ródio é um elemento químico de símbolo Rh e número atômico 45. É um metal de transição raro utilizado em catalisadores automotivos e em joalheria."
+},
+{
+    "name": "Paládio",
+    "symbol": "Pd",
+    "number": 46,
+    "period": 5,
+    "group": 10,
+    "atomic_mass": 106.42,
+    "category": "Metal de Transição",
+    "summary": "O paládio é um elemento químico de símbolo Pd e número atômico 46. É um metal de transição utilizado em catalisadores e em componentes eletrônicos."
+},
+{
+    "name": "Prata",
+    "symbol": "Ag",
+    "number": 47,
+    "period": 5,
+    "group": 11,
+    "atomic_mass": 107.87,
+    "category": "Metal de Transição",
+    "summary": "A prata é um elemento químico de símbolo Ag e número atômico 47. É um metal de transição usado em joalheria, eletrônicos e na cunhagem de moedas."
+},
+{
+    "name": "Cádmio",
+    "symbol": "Cd",
+    "number": 48,
+    "period": 5,
+    "group": 12,
+    "atomic_mass": 112.41,
+    "category": "Metal de Transição",
+    "summary": "O cádmio é um elemento químico de símbolo Cd e número atômico 48. É um metal tóxico utilizado em baterias recarregáveis e em revestimentos metálicos."
+},
+{
+    "name": "Índio",
+    "symbol": "In",
+    "number": 49,
+    "period": 5,
+    "group": 13,
+    "atomic_mass": 114.82,
+    "category": "Metal de Pós-Transição",
+    "summary": "O índio é um elemento químico de símbolo In e número atômico 49. É um metal macio utilizado em telas de LCD e em ligas de solda."
+},
+{
+    "name": "Estanho",
+    "symbol": "Sn",
+    "number": 50,
+    "period": 5,
+    "group": 14,
+    "atomic_mass": 118.71,
+    "category": "Metal de Pós-Transição",
+    "summary": "O estanho é um elemento químico de símbolo Sn e número atômico 50. É um metal usado em ligas e no revestimento de outros metais para evitar corrosão."
+},
+{
+    "name": "Antimônio",
+    "symbol": "Sb",
+    "number": 51,
+    "period": 5,
+    "group": 15,
+    "atomic_mass": 121.76,
+    "category": "Semimetal",
+    "summary": "O antimônio é um elemento químico de símbolo Sb e número atômico 51. É um semimetal usado principalmente em ligas de chumbo e em retardadores de chama."
+},
+{
+    "name": "Telúrio",
+    "symbol": "Te",
+    "number": 52,
+    "period": 5,
+    "group": 16,
+    "atomic_mass": 127.60,
+    "category": "Semimetal",
+    "summary": "O telúrio é um elemento químico de símbolo Te e número atômico 52. É um semimetal usado em ligas metálicas e na indústria de semicondutores."
+},
+{
+    "name": "Iodo",
+    "symbol": "I",
+    "number": 53,
+    "period": 5,
+    "group": 17,
+    "atomic_mass": 126.90,
+    "category": "Halogênio",
+    "summary": "O iodo é um elemento químico de símbolo I e número atômico 53. É um halogênio essencial para a síntese de hormônios da tireoide e usado como antisséptico."
+},
+{
+    "name": "Xenônio",
+    "symbol": "Xe",
+    "number": 54,
+    "period": 5,
+    "group": 18,
+    "atomic_mass": 131.29,
+    "category": "Gás Nobre",
+    "summary": "O xenônio é um elemento químico de símbolo Xe e número atômico 54. É um gás nobre incolor usado em lâmpadas de flash e em anestesia."
+},
+{
+    "name": "Césio",
+    "symbol": "Cs",
+    "number": 55,
+    "period": 6,
+    "group": 1,
+    "atomic_mass": 132.91,
+    "category": "Metal Alcalino",
+    "summary": "O césio é um elemento químico de símbolo Cs e número atômico 55. É um metal alcalino macio e altamente reativo, usado em relógios atômicos e células fotoelétricas."
+},
+{
+    "name": "Bário",
+    "symbol": "Ba",
+    "number": 56,
+    "period": 6,
+    "group": 2,
+    "atomic_mass": 137.33,
+    "category": "Metal Alcalino Terroso",
+    "summary": "O bário é um elemento químico de símbolo Ba e número atômico 56. É um metal alcalino-terroso utilizado em fluidos de perfuração e como contraste em exames radiológicos."
+},
+{
+    "name": "Lantânio",
+    "symbol": "La",
+    "number": 57,
+    "period": 6,
+    "group": 3,
+    "atomic_mass": 138.91,
+    "category": "Lantanídeo",
+    "summary": "O lantânio é um elemento químico de símbolo La e número atômico 57. É um lantanídeo usado em catalisadores e na produção de lentes óticas especiais."
+},
+{
+    "name": "Cério",
+    "symbol": "Ce",
+    "number": 58,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 140.12,
+    "category": "Lantanídeo",
+    "summary": "O cério é um elemento químico de símbolo Ce e número atômico 58. É um lantanídeo utilizado em catalisadores automotivos e em ligas para isqueiros."
+},
+{
+    "name": "Praseodímio",
+    "symbol": "Pr",
+    "number": 59,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 140.91,
+    "category": "Lantanídeo",
+    "summary": "O praseodímio é um elemento químico de símbolo Pr e número atômico 59. É um lantanídeo usado na fabricação de vidros coloridos e imãs fortes."
+},
+{
+    "name": "Neodímio",
+    "symbol": "Nd",
+    "number": 60,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 144.24,
+    "category": "Lantanídeo",
+    "summary": "O neodímio é um elemento químico de símbolo Nd e número atômico 60. É um lantanídeo usado na produção de superímãs e em lasers."
+},
+{
+    "name": "Promécio",
+    "symbol": "Pm",
+    "number": 61,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 145,
+    "category": "Lantanídeo",
+    "summary": "O promécio é um elemento químico de símbolo Pm e número atômico 61. É um lantanídeo radioativo utilizado em dispositivos luminosos e em baterias nucleares."
+},
+{
+    "name": "Samário",
+    "symbol": "Sm",
+    "number": 62,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 150.36,
+    "category": "Lantanídeo",
+    "summary": "O samário é um elemento químico de símbolo Sm e número atômico 62. É um lantanídeo usado em materiais magnéticos e como absorvedor de nêutrons em reatores nucleares."
+},
+{
+    "name": "Európio",
+    "symbol": "Eu",
+    "number": 63,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 151.96,
+    "category": "Lantanídeo",
+    "summary": "O európio é um elemento químico de símbolo Eu e número atômico 63. É um lantanídeo usado em fósforos para televisões e lâmpadas fluorescentes."
+},
+{
+    "name": "Gadolínio",
+    "symbol": "Gd",
+    "number": 64,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 157.25,
+    "category": "Lantanídeo",
+    "summary": "O gadolínio é um elemento químico de símbolo Gd e número atômico 64. É um lantanídeo usado em exames de ressonância magnética e como absorvedor de nêutrons."
+},
+{
+    "name": "Térbio",
+    "symbol": "Tb",
+    "number": 65,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 158.93,
+    "category": "Lantanídeo",
+    "summary": "O térbio é um elemento químico de símbolo Tb e número atômico 65. É um lantanídeo utilizado em dispositivos eletrônicos e em fósforos de lâmpadas fluorescentes."
+},
+{
+    "name": "Disprósio",
+    "symbol": "Dy",
+    "number": 66,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 162.50,
+    "category": "Lantanídeo",
+    "summary": "O disprósio é um elemento químico de símbolo Dy e número atômico 66. É um lantanídeo usado em ímãs de alta resistência e em reatores nucleares."
+},
+{
+    "name": "Hólmio",
+    "symbol": "Ho",
+    "number": 67,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 164.93,
+    "category": "Lantanídeo",
+    "summary": "O hólmio é um elemento químico de símbolo Ho e número atômico 67. É um lantanídeo utilizado em ímãs e em lasers de estado sólido."
+},
+{
+    "name": "Érbio",
+    "symbol": "Er",
+    "number": 68,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 167.26,
+    "category": "Lantanídeo",
+    "summary": "O érbio é um elemento químico de símbolo Er e número atômico 68. É um lantanídeo utilizado em lasers de estado sólido e em fibras ópticas."
+},
+{
+    "name": "Túlio",
+    "symbol": "Tm",
+    "number": 69,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 168.93,
+    "category": "Lantanídeo",
+    "summary": "O túlio é um elemento químico de símbolo Tm e número atômico 69. É um lantanídeo usado em lasers e em materiais para magnéticos de alta performance."
+},
+{
+    "name": "Ítrio",
+    "symbol": "Y",
+    "number": 39,
+    "period": 5,
+    "group": 3,
+    "atomic_mass": 88.906,
+    "category": "Metal de Transição",
+    "summary": "O ítrio é um elemento químico de símbolo Y e número atômico 39. É um metal de transição usado em cerâmicas, LEDs e como aditivo em ligas metálicas."
+},
+{
+    "name": "Zircônio",
+    "symbol": "Zr",
+    "number": 40,
+    "period": 5,
+    "group": 4,
+    "atomic_mass": 91.224,
+    "category": "Metal de Transição",
+    "summary": "O zircônio é um elemento químico de símbolo Zr e número atômico 40. É um metal de transição resistente à corrosão, usado em cerâmicas e como componente de ligas."
+},
+{
+    "name": "Nióbio",
+    "symbol": "Nb",
+    "number": 41,
+    "period": 5,
+    "group": 5,
+    "atomic_mass": 92.906,
+    "category": "Metal de Transição",
+    "summary": "O nióbio é um elemento químico de símbolo Nb e número atômico 41. É um metal de transição usado em ligas de aço e em aplicações de alta tecnologia."
+},
+{
+    "name": "Molibdênio",
+    "symbol": "Mo",
+    "number": 42,
+    "period": 5,
+    "group": 6,
+    "atomic_mass": 95.95,
+    "category": "Metal de Transição",
+    "summary": "O molibdênio é um elemento químico de símbolo Mo e número atômico 42. É um metal de transição usado em ligas metálicas para aumentar a resistência ao calor e à corrosão."
+},
+{
+    "name": "Tecnécio",
+    "symbol": "Tc",
+    "number": 43,
+    "period": 5,
+    "group": 7,
+    "atomic_mass": 98,
+    "category": "Metal de Transição",
+    "summary": "O tecnécio é um elemento químico de símbolo Tc e número atômico 43. É um metal de transição radioativo, usado principalmente em medicina nuclear para exames de imagem."
+},
+{
+    "name": "Rutênio",
+    "symbol": "Ru",
+    "number": 44,
+    "period": 5,
+    "group": 8,
+    "atomic_mass": 101.07,
+    "category": "Metal de Transição",
+    "summary": "O rutênio é um elemento químico de símbolo Ru e número atômico 44. É um metal de transição usado em catalisadores e na fabricação de contatos elétricos."
+},
+{
+    "name": "Ródio",
+    "symbol": "Rh",
+    "number": 45,
+    "period": 5,
+    "group": 9,
+    "atomic_mass": 102.91,
+    "category": "Metal de Transição",
+    "summary": "O ródio é um elemento químico de símbolo Rh e número atômico 45. É um metal de transição usado em catalisadores automotivos e em revestimentos decorativos."
+},
+{
+    "name": "Paládio",
+    "symbol": "Pd",
+    "number": 46,
+    "period": 5,
+    "group": 10,
+    "atomic_mass": 106.42,
+    "category": "Metal de Transição",
+    "summary": "O paládio é um elemento químico de símbolo Pd e número atômico 46. É um metal de transição usado em catalisadores, joias e na fabricação de dispositivos eletrônicos."
+},
+{
+    "name": "Prata",
+    "symbol": "Ag",
+    "number": 47,
+    "period": 5,
+    "group": 11,
+    "atomic_mass": 107.87,
+    "category": "Metal de Transição",
+    "summary": "A prata é um elemento químico de símbolo Ag e número atômico 47. É um metal de transição amplamente usado em joias, moedas e como condutor elétrico."
+},
+{
+    "name": "Cádmio",
+    "symbol": "Cd",
+    "number": 48,
+    "period": 5,
+    "group": 12,
+    "atomic_mass": 112.41,
+    "category": "Metal de Transição",
+    "summary": "O cádmio é um elemento químico de símbolo Cd e número atômico 48. É um metal de transição usado em baterias recarregáveis e em revestimentos anticorrosivos."
+},
+{
+    "name": "Índio",
+    "symbol": "In",
+    "number": 49,
+    "period": 5,
+    "group": 13,
+    "atomic_mass": 114.82,
+    "category": "Metal de Pós-Transição",
+    "summary": "O índio é um elemento químico de símbolo In e número atômico 49. É um metal pós-transição usado em telas sensíveis ao toque e em ligas metálicas."
+},
+{
+    "name": "Estanho",
+    "symbol": "Sn",
+    "number": 50,
+    "period": 5,
+    "group": 14,
+    "atomic_mass": 118.71,
+    "category": "Metal de Pós-Transição",
+    "summary": "O estanho é um elemento químico de símbolo Sn e número atômico 50. É um metal pós-transição usado principalmente em soldas e em revestimentos protetores."
+},
+{
+    "name": "Antimônio",
+    "symbol": "Sb",
+    "number": 51,
+    "period": 5,
+    "group": 15,
+    "atomic_mass": 121.76,
+    "category": "Semimetal",
+    "summary": "O antimônio é um elemento químico de símbolo Sb e número atômico 51. É um metalóide usado em ligas e em materiais semicondutores."
+},
+{
+    "name": "Telúrio",
+    "symbol": "Te",
+    "number": 52,
+    "period": 5,
+    "group": 16,
+    "atomic_mass": 127.60,
+    "category": "Semimetal",
+    "summary": "O telúrio é um elemento químico de símbolo Te e número atômico 52. É um metalóide utilizado em ligas metálicas e como elemento de reforço em semicondutores."
+},
+{
+    "name": "Iodo",
+    "symbol": "I",
+    "number": 53,
+    "period": 5,
+    "group": 17,
+    "atomic_mass": 126.90,
+    "category": "Halogênio",
+    "summary": "O iodo é um elemento químico de símbolo I e número atômico 53. É um halogênio essencial para a saúde humana, utilizado principalmente em desinfetantes e na produção de hormônios tireoidianos."
+},
+{
+    "name": "Xenônio",
+    "symbol": "Xe",
+    "number": 54,
+    "period": 5,
+    "group": 18,
+    "atomic_mass": 131.29,
+    "category": "Gás Nobre",
+    "summary": "O xenônio é um elemento químico de símbolo Xe e número atômico 54. É um gás nobre usado em lâmpadas de alta intensidade e em anestesia."
+},
+{
+    "name": "Césio",
+    "symbol": "Cs",
+    "number": 55,
+    "period": 6,
+    "group": 1,
+    "atomic_mass": 132.91,
+    "category": "Metal Alcalino",
+    "summary": "O césio é um elemento químico de símbolo Cs e número atômico 55. É um metal alcalino altamente reativo, utilizado em relógios atômicos e em pesquisas científicas."
+},
+{
+    "name": "Bário",
+    "symbol": "Ba",
+    "number": 56,
+    "period": 6,
+    "group": 2,
+    "atomic_mass": 137.33,
+    "category": "Metal Alcalino Terroso",
+    "summary": "O bário é um elemento químico de símbolo Ba e número atômico 56. É um metal alcalino-terroso usado em radiografias e em materiais cerâmicos."
+},
+{
+    "name": "Lantânio",
+    "symbol": "La",
+    "number": 57,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 138.91,
+    "category": "Lantanídeo",
+    "summary": "O lantânio é um elemento químico de símbolo La e número atômico 57. É um lantanídeo usado em catalisadores e em materiais magnéticos."
+},
+{
+    "name": "Cério",
+    "symbol": "Ce",
+    "number": 58,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 140.12,
+    "category": "Lantanídeo",
+    "summary": "O cério é um elemento químico de símbolo Ce e número atômico 58. É um lantanídeo usado em catalisadores automotivos e em cerâmicas."
+},
+{
+    "name": "Praseodímio",
+    "symbol": "Pr",
+    "number": 59,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 140.91,
+    "category": "Lantanídeo",
+    "summary": "O praseodímio é um elemento químico de símbolo Pr e número atômico 59. É um lantanídeo utilizado em ligas metálicas e em lasers."
+},
+{
+    "name": "Neodímio",
+    "symbol": "Nd",
+    "number": 60,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 144.24,
+    "category": "Lantanídeo",
+    "summary": "O neodímio é um elemento químico de símbolo Nd e número atômico 60. É um lantanídeo usado em ímãs fortes e em lasers."
+},
+{
+    "name": "Promécio",
+    "symbol": "Pm",
+    "number": 61,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 145,
+    "category": "Lantanídeo",
+    "summary": "O promécio é um elemento químico de símbolo Pm e número atômico 61. É um lantanídeo radioativo usado em fontes de luz fluorescente."
+},
+{
+    "name": "Samário",
+    "symbol": "Sm",
+    "number": 62,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 150.36,
+    "category": "Lantanídeo",
+    "summary": "O samário é um elemento químico de símbolo Sm e número atômico 62. É um lantanídeo utilizado em ímãs permanentes e em reatores nucleares."
+},
+{
+    "name": "Europio",
+    "symbol": "Eu",
+    "number": 63,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 151.96,
+    "category": "Lantanídeo",
+    "summary": "O europio é um elemento químico de símbolo Eu e número atômico 63. É um lantanídeo usado em fósforos para monitores e lâmpadas fluorescentes."
+},
+{
+    "name": "Gadolínio",
+    "symbol": "Gd",
+    "number": 64,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 157.25,
+    "category": "Lantanídeo",
+    "summary": "O gadolínio é um elemento químico de símbolo Gd e número atômico 64. É um lantanídeo utilizado em imagens por ressonância magnética e em materiais magnéticos."
+},
+{
+    "name": "Térbio",
+    "symbol": "Tb",
+    "number": 65,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 158.93,
+    "category": "Lantanídeo",
+    "summary": "O térbio é um elemento químico de símbolo Tb e número atômico 65. É um lantanídeo utilizado em iluminação e em ligas para imãs."
+},
+{
+    "name": "Disprósio",
+    "symbol": "Dy",
+    "number": 66,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 162.50,
+    "category": "Lantanídeo",
+    "summary": "O disprósio é um elemento químico de símbolo Dy e número atômico 66. É um lantanídeo utilizado em ímãs permanentes e em lasers."
+},
+{
+    "name": "Hólmio",
+    "symbol": "Ho",
+    "number": 67,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 164.93,
+    "category": "Lantanídeo",
+    "summary": "O hólmio é um elemento químico de símbolo Ho e número atômico 67. É um lantanídeo usado em lasers e em materiais magnéticos."
+},
+{
+    "name": "Itérbio",
+    "symbol": "Yb",
+    "number": 70,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 173.04,
+    "category": "Lantanídeo",
+    "summary": "O itérbio é um elemento químico de símbolo Yb e número atômico 70. É um lantanídeo utilizado em lasers e em materiais magnéticos."
+},
+{
+    "name": "Lutécio",
+    "symbol": "Lu",
+    "number": 71,
+    "period": 6,
+    "group": "n/a",
+    "atomic_mass": 174.97,
+    "category": "Lantanídeo",
+    "summary": "O lutécio é um elemento químico de símbolo Lu e número atômico 71. É um lantanídeo usado em catalisadores e em materiais de alta tecnologia."
+},
+{
+    "name": "Háfnio",
+    "symbol": "Hf",
+    "number": 72,
+    "period": 6,
+    "group": 4,
+    "atomic_mass": 178.49,
+    "category": "Metal de Transição",
+    "summary": "O háfnio é um elemento químico de símbolo Hf e número atômico 72. É um metal de transição utilizado em ligas e em tecnologia de semicondutores."
+},
+{
+    "name": "Tântalo",
+    "symbol": "Ta",
+    "number": 73,
+    "period": 6,
+    "group": 5,
+    "atomic_mass": 180.95,
+    "category": "Metal de Transição",
+    "summary": "O tântalo é um elemento químico de símbolo Ta e número atômico 73. É um metal de transição resistente à corrosão, usado em eletrônicos e em próteses médicas."
+},
+{
+    "name": "Wólframio",
+    "symbol": "W",
+    "number": 74,
+    "period": 6,
+    "group": 6,
+    "atomic_mass": 183.84,
+    "category": "Metal de Transição",
+    "summary": "O wólframio é um elemento químico de símbolo W e número atômico 74. É um metal de transição com o ponto de fusão mais alto, utilizado em lâmpadas e em ligas de alta resistência."
+},
+{
+    "name": "Rênio",
+    "symbol": "Re",
+    "number": 75,
+    "period": 6,
+    "group": 7,
+    "atomic_mass": 186.21,
+    "category": "Metal de Transição",
+    "summary": "O rênio é um elemento químico de símbolo Re e número atômico 75. É um metal de transição raro e resistente, usado em catalisadores e em ligas de alta temperatura."
+},
+{
+    "name": "Ósmio",
+    "symbol": "Os",
+    "number": 76,
+    "period": 6,
+    "group": 8,
+    "atomic_mass": 190.23,
+    "category": "Metal de Transição",
+    "summary": "O ósmio é um elemento químico de símbolo Os e número atômico 76. É um metal de transição denso e resistente à corrosão, usado em ligas e catalisadores."
+},
+{
+    "name": "Irídio",
+    "symbol": "Ir",
+    "number": 77,
+    "period": 6,
+    "group": 9,
+    "atomic_mass": 192.22,
+    "category": "Metal de Transição",
+    "summary": "O irídio é um elemento químico de símbolo Ir e número atômico 77. É um metal de transição raro e altamente resistente à corrosão, utilizado em contatos elétricos e em equipamentos de alta tecnologia."
+},
+{
+    "name": "Platina",
+    "symbol": "Pt",
+    "number": 78,
+    "period": 6,
+    "group": 10,
+    "atomic_mass": 195.08,
+    "category": "Metal de Transição",
+    "summary": "A platina é um elemento químico de símbolo Pt e número atômico 78. É um metal de transição nobre, utilizado em joalheria, catalisadores e equipamentos médicos."
+},
+{
+    "name": "Ouro",
+    "symbol": "Au",
+    "number": 79,
+    "period": 6,
+    "group": 11,
+    "atomic_mass": 196.97,
+    "category": "Metal de Transição",
+    "summary": "O ouro é um elemento químico de símbolo Au e número atômico 79. É um metal de transição nobre, amplamente utilizado em joalheria, moedas e eletrônica."
+},
+{
+    "name": "Mercúrio",
+    "symbol": "Hg",
+    "number": 80,
+    "period": 6,
+    "group": 12,
+    "atomic_mass": 200.59,
+    "category": "Metal de Transição",
+    "summary": "O mercúrio é um elemento químico de símbolo Hg e número atômico 80. É um metal de transição líquido à temperatura ambiente, usado em termômetros e na indústria química."
+},
+{
+    "name": "Tálio",
+    "symbol": "Tl",
+    "number": 81,
+    "period": 6,
+    "group": 13,
+    "atomic_mass": 204.38,
+    "category": "Metal de Pós-Transição",
+    "summary": "O tálio é um elemento químico de símbolo Tl e número atômico 81. É um metal pós-transição tóxico, utilizado em semicondutores e em alguns processos industriais."
+},
+{
+    "name": "Chumbo",
+    "symbol": "Pb",
+    "number": 82,
+    "period": 6,
+    "group": 14,
+    "atomic_mass": 207.2,
+    "category": "Metal de Pós-Transição",
+    "summary": "O chumbo é um elemento químico de símbolo Pb e número atômico 82. É um metal pesado e tóxico, utilizado em baterias e na proteção contra radiação."
+},
+{
+    "name": "Bismuto",
+    "symbol": "Bi",
+    "number": 83,
+    "period": 6,
+    "group": 15,
+    "atomic_mass": 208.98,
+    "category": "Metal de Pós-Transição",
+    "summary": "O bismuto é um elemento químico de símbolo Bi e número atômico 83. É um metal pós-transição utilizado em ligas e em alguns tratamentos médicos."
+},
+{
+    "name": "Polônio",
+    "symbol": "Po",
+    "number": 84,
+    "period": 6,
+    "group": 16,
+    "atomic_mass": 209.98,
+    "category": "Semimetal",
+    "summary": "O polônio é um elemento químico de símbolo Po e número atômico 84. É um semimetal radioativo, usado em algumas aplicações industriais e científicas."
+},
+{
+    "name": "Astato",
+    "symbol": "At",
+    "number": 85,
+    "period": 6,
+    "group": 17,
+    "atomic_mass": 210,
+    "category": "Halogênio",
+    "summary": "O astato é um elemento químico de símbolo At e número atômico 85. É um halogênio raro e altamente radioativo, com poucos usos práticos conhecidos."
+},
+{
+    "name": "Radônio",
+    "symbol": "Rn",
+    "number": 86,
+    "period": 6,
+    "group": 18,
+    "atomic_mass": 222,
+    "category": "Gás Nobre",
+    "summary": "O radônio é um elemento químico de símbolo Rn e número atômico 86. É um gás nobre radioativo, produzido pela decomposição de urânio e tório em rochas e solos."
+},
+{
+    "name": "Frâncio",
+    "symbol": "Fr",
+    "number": 87,
+    "period": 7,
+    "group": 1,
+    "atomic_mass": 223,
+    "category": "Metal Alcalino",
+    "summary": "O frâncio é um elemento químico de símbolo Fr e número atômico 87. É um metal alcalino altamente radioativo e extremamente raro, com aplicações científicas limitadas."
+},
+{
+    "name": "Rádio",
+    "symbol": "Ra",
+    "number": 88,
+    "period": 7,
+    "group": 2,
+    "atomic_mass": 226,
+    "category": "Metal Alcalino Terroso",
+    "summary": "O rádio é um elemento químico de símbolo Ra e número atômico 88. É um metal alcalino-terroso radioativo, utilizado em alguns tratamentos médicos e na pesquisa científica."
+},
+{
+    "name": "Actínio",
+    "symbol": "Ac",
+    "number": 89,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 227,
+    "category": "Actinídeo",
+    "summary": "O actínio é um elemento químico de símbolo Ac e número atômico 89. É um actinídeo radioativo utilizado em pesquisa nuclear e em alguns tipos de radioterapia."
+},
+{
+    "name": "Tório",
+    "symbol": "Th",
+    "number": 90,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 232.04,
+    "category": "Actinídeo",
+    "summary": "O tório é um elemento químico de símbolo Th e número atômico 90. É um actinídeo radioativo utilizado como combustível nuclear e em pesquisas científicas."
+},
+{
+    "name": "Protactínio",
+    "symbol": "Pa",
+    "number": 91,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 231.04,
+    "category": "Actinídeo",
+    "summary": "O protactínio é um elemento químico de símbolo Pa e número atômico 91. É um actinídeo radioativo utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Urânio",
+    "symbol": "U",
+    "number": 92,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 238.03,
+    "category": "Actinídeo",
+    "summary": "O urânio é um elemento químico de símbolo U e número atômico 92. É um actinídeo utilizado como combustível nuclear e em armas nucleares."
+},
+{
+    "name": "Netúnio",
+    "symbol": "Np",
+    "number": 93,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 237,
+    "category": "Actinídeo",
+    "summary": "O netúnio é um elemento químico de símbolo Np e número atômico 93. É um actinídeo radioativo utilizado principalmente em pesquisas científicas e como combustível nuclear."
+},
+{
+    "name": "Plutônio",
+    "symbol": "Pu",
+    "number": 94,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 244,
+    "category": "Actinídeo",
+    "summary": "O plutônio é um elemento químico de símbolo Pu e número atômico 94. É um actinídeo altamente radioativo, utilizado em armas nucleares e em reatores nucleares."
+},
+{
+    "name": "Amerício",
+    "symbol": "Am",
+    "number": 95,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 243,
+    "category": "Actinídeo",
+    "summary": "O amerício é um elemento químico de símbolo Am e número atômico 95. É um actinídeo radioativo utilizado em detectores de fumaça e em pesquisa científica."
+},
+{
+    "name": "Cúrio",
+    "symbol": "Cm",
+    "number": 96,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 247,
+    "category": "Actinídeo",
+    "summary": "O cúrio é um elemento químico de símbolo Cm e número atômico 96. É um actinídeo radioativo utilizado em pesquisa científica e em algumas aplicações industriais."
+},
+{
+    "name": "Bérquelio",
+    "symbol": "Bk",
+    "number": 97,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 247,
+    "category": "Actinídeo",
+    "summary": "O bérquelio é um elemento químico de símbolo Bk e número atômico 97. É um actinídeo radioativo utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Califórnio",
+    "symbol": "Cf",
+    "number": 98,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 251,
+    "category": "Actinídeo",
+    "summary": "O califórnio é um elemento químico de símbolo Cf e número atômico 98. É um actinídeo radioativo utilizado em pesquisa científica e em algumas aplicações industriais."
+},
+{
+    "name": "Einsteinio",
+    "symbol": "Es",
+    "number": 99,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 252,
+    "category": "Actinídeo",
+    "summary": "O einsteinio é um elemento químico de símbolo Es e número atômico 99. É um actinídeo radioativo utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Férmio",
+    "symbol": "Fm",
+    "number": 100,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 257,
+    "category": "Actinídeo",
+    "summary": "O férmio é um elemento químico de símbolo Fm e número atômico 100. É um actinídeo radioativo utilizado em pesquisa científica, especialmente em física nuclear."
+},
+{
+    "name": "Mendelévio",
+    "symbol": "Md",
+    "number": 101,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 258,
+    "category": "Actinídeo",
+    "summary": "O mendelévio é um elemento químico de símbolo Md e número atômico 101. É um actinídeo radioativo utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Nobélio",
+    "symbol": "No",
+    "number": 102,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 259,
+    "category": "Actinídeo",
+    "summary": "O nobélio é um elemento químico de símbolo No e número atômico 102. É um actinídeo radioativo utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Laurêncio",
+    "symbol": "Lr",
+    "number": 103,
+    "period": 7,
+    "group": "n/a",
+    "atomic_mass": 262,
+    "category": "Actinídeo",
+    "summary": "O laurêncio é um elemento químico de símbolo Lr e número atômico 103. É um actinídeo radioativo utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Rutherfórdio",
+    "symbol": "Rf",
+    "number": 104,
+    "period": 7,
+    "group": 4,
+    "atomic_mass": 267,
+    "category": "Metal de Transição",
+    "summary": "O rutherfórdio é um elemento químico de símbolo Rf e número atômico 104. É um metal de transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Dúbnio",
+    "symbol": "Db",
+    "number": 105,
+    "period": 7,
+    "group": 5,
+    "atomic_mass": 270,
+    "category": "Metal de Transição",
+    "summary": "O dúbnio é um elemento químico de símbolo Db e número atômico 105. É um metal de transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Seabórgio",
+    "symbol": "Sg",
+    "number": 106,
+    "period": 7,
+    "group": 6,
+    "atomic_mass": 271,
+    "category": "Metal de Transição",
+    "summary": "O seabórgio é um elemento químico de símbolo Sg e número atômico 106. É um metal de transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Bóhrio",
+    "symbol": "Bh",
+    "number": 107,
+    "period": 7,
+    "group": 7,
+    "atomic_mass": 270,
+    "category": "Metal de Transição",
+    "summary": "O bóhrio é um elemento químico de símbolo Bh e número atômico 107. É um metal de transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Hássio",
+    "symbol": "Hs",
+    "number": 108,
+    "period": 7,
+    "group": 8,
+    "atomic_mass": 277,
+    "category": "Metal de Transição",
+    "summary": "O hássio é um elemento químico de símbolo Hs e número atômico 108. É um metal de transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Meitnério",
+    "symbol": "Mt",
+    "number": 109,
+    "period": 7,
+    "group": 9,
+    "atomic_mass": 276,
+    "category": "Metal de Transição",
+    "summary": "O meitnério é um elemento químico de símbolo Mt e número atômico 109. É um metal de transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Darmstádio",
+    "symbol": "Ds",
+    "number": 110,
+    "period": 7,
+    "group": 10,
+    "atomic_mass": 281,
+    "category": "Metal de Transição",
+    "summary": "O darmstádio é um elemento químico de símbolo Ds e número atômico 110. É um metal de transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Roentgênio",
+    "symbol": "Rg",
+    "number": 111,
+    "period": 7,
+    "group": 11,
+    "atomic_mass": 282,
+    "category": "Metal de Transição",
+    "summary": "O roentgênio é um elemento químico de símbolo Rg e número atômico 111. É um metal de transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Copernício",
+    "symbol": "Cn",
+    "number": 112,
+    "period": 7,
+    "group": 12,
+    "atomic_mass": 285,
+    "category": "Metal de Transição",
+    "summary": "O copernício é um elemento químico de símbolo Cn e número atômico 112. É um metal de transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Nihônio",
+    "symbol": "Nh",
+    "number": 113,
+    "period": 7,
+    "group": 13,
+    "atomic_mass": 286,
+    "category": "Metal de Pós-Transição",
+    "summary": "O nihônio é um elemento químico de símbolo Nh e número atômico 113. É um metal pós-transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Fleróvio",
+    "symbol": "Fl",
+    "number": 114,
+    "period": 7,
+    "group": 14,
+    "atomic_mass": 289,
+    "category": "Metal de Pós-Transição",
+    "summary": "O fleróvio é um elemento químico de símbolo Fl e número atômico 114. É um metal pós-transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Moscóvio",
+    "symbol": "Mc",
+    "number": 115,
+    "period": 7,
+    "group": 15,
+    "atomic_mass": 290,
+    "category": "Metal de Pós-Transição",
+    "summary": "O moscóvio é um elemento químico de símbolo Mc e número atômico 115. É um metal pós-transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Livermório",
+    "symbol": "Lv",
+    "number": 116,
+    "period": 7,
+    "group": 16,
+    "atomic_mass": 293,
+    "category": "Metal de Pós-Transição",
+    "summary": "O livermório é um elemento químico de símbolo Lv e número atômico 116. É um metal pós-transição superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Tennessino",
+    "symbol": "Ts",
+    "number": 117,
+    "period": 7,
+    "group": 17,
+    "atomic_mass": 294,
+    "category": "Halogênio",
+    "summary": "O tennessino é um elemento químico de símbolo Ts e número atômico 117. É um halogênio superpesado, utilizado principalmente em pesquisa científica."
+},
+{
+    "name": "Oganessônio",
+    "symbol": "Og",
+    "number": 118,
+    "period": 7,
+    "group": 18,
+    "atomic_mass": 294,
+    "category": "Gás Nobre",
+    "summary": "O oganessônio é um elemento químico de símbolo Og e número atômico 118. É um gás nobre superpesado, utilizado principalmente em pesquisa científica."
+}
+]
