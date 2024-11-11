@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     // Carrega os dados dos elementos
-    fetch('data/elements.json')
+    fetch('elements.json')
         .then(response => response.json())
         .then(data => {
             createPeriodicTable(data);
